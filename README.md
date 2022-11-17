@@ -5,4 +5,4 @@ This is the projects of Development of Intelligent Medical Information System. T
 Demo Video: https://youtu.be/MMXGhqQcfsQ
 
 ### Final Project - Flutter news app
-Demo Video: https://youtu.be/MMXGhqQcfsQ
+Demo Video: https://drive.google.com/file/d/1pOivZ9kW6TNJTqjVa8S-PJqanqTNn8wl/view?usp=share_link
